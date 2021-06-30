@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "4101f45d-6549-4a05-93ff-bc2151e49ca6",
+      "name": "hi",
+      "email": "syed.hassan@welldev.io"
+    },
+    {
+      "id": "8b677dd4-2caa-4b00-9e9b-9ccf0a5acc52",
+      "name": "hi3",
+      "email": "mercury9181@gmail.com"
+    },
+    {
+      "id": "48c60acc-7021-4140-ba8c-7314a1154b61",
+      "name": "hi4 edited ",
+      "email": "mercury9181@gmail.com"
+    },
+    {
+      "id": "1c282656-70c1-4f27-af73-e4849544cfd9",
+      "name": "rahat",
+      "email": "somethin@outlook.com"
+    }
+  ]
+}
